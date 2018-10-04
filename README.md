@@ -1,4 +1,4 @@
-# partner-app
+# vue-starter-app
 
 ## Project setup
 ```
